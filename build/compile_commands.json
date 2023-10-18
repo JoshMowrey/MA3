@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/josh/Projects 223/init_code/build",
+  "command": "/usr/bin/c++    -Wall -g -std=gnu++11 -o CMakeFiles/CPTS_223_MA3-executable.dir/main.cpp.o -c \"/home/josh/Projects 223/init_code/init_code/main.cpp\"",
+  "file": "/home/josh/Projects 223/init_code/init_code/main.cpp"
+},
+{
+  "directory": "/home/josh/Projects 223/init_code/build",
+  "command": "/usr/bin/c++    -Wall -g -std=gnu++11 -o CMakeFiles/CPTS_223_MA3-executable.dir/TwitterData.cpp.o -c \"/home/josh/Projects 223/init_code/init_code/TwitterData.cpp\"",
+  "file": "/home/josh/Projects 223/init_code/init_code/TwitterData.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/josh/Projects 223/init_code/build/CMakeFiles/CPTS_223_MA3-executable.dir
+/home/josh/Projects 223/init_code/build/CMakeFiles/edit_cache.dir
+/home/josh/Projects 223/init_code/build/CMakeFiles/rebuild_cache.dir
